@@ -1,0 +1,53 @@
+*.obj
+!TrvModalSyncMsg.obj
+!ATAC_Client.obj
+*.~bpr
+*.~cpp
+*.~dsk
+*.exe
+/Dif
+/cub
+*.bat
+*.rar
+*.XLS
+*.doc
+*.~h
+*.~dfm
+*.~ddp
+*.~bpg
+SQL Metadata/SQL metadata2.sql
+Akhmetov
+AttrAction
+AttrAction.new
+DLL_64_SIGN0
+DocLeader  
+ExcelRuler
+FB_Client
+"from Sharov"
+FTD2XX
+hiIco
+iButton
+ISPlanarUtil
+Lunch
+Monitor
+Oper
+PCAD
+PFS
+PictureView
+PlManager
+Pult
+RadioRele
+robot
+Rychkov
+SIGN
+SIUMAnager
+SNSet
+Sprav
+Test
+unix
+UpdateFiles
+Upg
+UserLogin
+"пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ"
+"пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ DLL"
+Planar_2015_02_16.zip
